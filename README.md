@@ -1,2 +1,2 @@
 # test
-just a try
+try rpc by go
